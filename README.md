@@ -99,7 +99,6 @@ The project included the following deliverables:
 * Power/Interest Grid
 * RACI Matrix
 * Risk Management
-* Project Schedule
 * Jira Project Board
 * Customer Survey Analysis
 * KPI Dashboard
@@ -347,7 +346,6 @@ Based on the test results, the following actions are recommended before a wider 
 
 * **Jira** – Project and task tracking
 * **Microsoft Excel / Google Sheets** – Data organization and analysis
-* **Power BI / Dashboard tools** – KPI visualization
 * **PowerPoint / Presentation tools** – Project presentation
 * **Project Management Frameworks** – Planning, stakeholder management, risk management, and retrospective
 
